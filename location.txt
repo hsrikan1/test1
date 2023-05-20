@@ -1,0 +1,2 @@
+state:karnataka
+place:Bangalore
