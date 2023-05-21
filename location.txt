@@ -1,3 +1,4 @@
 state:karnataka
 place:Bangalore
 area:jpnagar
+near bel circle
